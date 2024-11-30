@@ -45,10 +45,10 @@
 
 ## 📚 Projects
 
-### **[News Explorer](https://github.com/your-username/news-explorer)**  
+### **[News Explorer](https://github.com/JAC874/news-explorer-frontend)**  
 A modern news app that allows users to search, save, and organize articles. Built with **React**, **Node.js**, and **MongoDB**.
 
-### **[What to Wear? (WTWR)](https://github.com/your-username/wtwr-backend)**  
+### **[What to Wear? (WTWR)](https://github.com/JAC874/se_project_express)**  
 A full-stack weather app with robust authentication, error handling, and scalable architecture.
 
 ---
